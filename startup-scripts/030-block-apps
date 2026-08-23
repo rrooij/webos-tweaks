@@ -1,0 +1,15 @@
+#!/usr/bin/python
+
+import json
+import subprocess
+
+kill_process = ["com.webos.app.voice"]
+
+processes_json = subprocess.check_output("luna-send -n 1 -f luna://com.webos.service.applicationmanager/running '{}'", shell=True)
+processes = json.loads(processes_json)
+
+for process in processes["running"]:
+    if process["id"] in kill_process:
+        process_id = process["processid"]
+        process_id_json = '{"processId": "'+ process_id + '"}'
+	subprocess.call("luna-send -n 1 -f luna://com.webos.service.applicationmanager/close '" + process_id_json + "'", shell=True)
