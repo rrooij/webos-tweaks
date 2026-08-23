@@ -1,0 +1,724 @@
+/usr/bin:
+
+
+-rwx------    1 root     root         14204 Aug 19  2025 AccessUsbTool
+-rwxr-xr-x    1 root     root         26368 Aug 19  2025 ApplicationInstallerUtility
+-rwxr-x---    1 root     root        329924 Aug 19  2025 LunaDownloadMgr
+-rwxr-xr-x    1 root     root         21996 Aug 19  2025 PmLogCtl
+-rwxr-xr-x    1 wam      root          9708 Sep 13  2025 WebAppMgr
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 [ -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 [[ -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root        431652 Aug 19  2025 accountmanager
+-rwxr-xr-x    1 root     root         13804 Feb 22  2024 aconnect
+-rwxr-xr-x    1 root     root         63140 Feb 22  2024 addbuiltin
+-rwxr-xr-x    1 root     root         34288 Aug 19  2025 advrThumbnailer
+-rwxr-xr-x    1 root     root         30460 Aug 19  2025 airunner
+-rwxr-xr-x    1 root     root         99884 Aug 19  2025 aiservice
+-rwxr-xr-x    1 root     root         55228 Feb 22  2024 alsaloop
+-rwxr-xr-x    1 root     root         50836 Feb 22  2024 alsamixer
+-rwxr-xr-x    1 root     root         14040 Feb 22  2024 alsaucm
+-rwxr-xr-x    1 root     root         14028 Aug 19  2025 am-monitor
+-rwxr-xr-x    1 root     root         13940 Aug 19  2025 am-send
+-rwxr-xr-x    1 root     root         17900 Feb 22  2024 amidi
+-rwxr-xr-x    1 root     root         38440 Feb 22  2024 amixer
+-rwxr-xr-x    1 root     root         34384 Feb 22  2024 aomdec
+-rwxr-xr-x    1 root     root         58892 Feb 22  2024 aplay
+-rwxr-xr-x    1 root     root         17904 Feb 22  2024 aplaymidi
+drwxr-xr-x    2 root     root            78 Sep 13  2025 app-shell
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 ar -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 arch -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root             5 Feb 22  2024 arecord -> aplay
+-rwxr-xr-x    1 root     root         17916 Feb 22  2024 arecordmidi
+-rwxr-xr-x    1 root     root       3454432 Nov 20  2024 arm_compute_benchmark
+-rwxr-xr-x    1 root     root         13804 Feb 22  2024 aseqdump
+-rwxr-xr-x    1 root     root         13840 Feb 22  2024 aseqnet
+-rwxr-xr-x    1 root     root          9652 Feb 22  2024 atob
+-rwxr-xr-x    1 root     root          9672 Aug 19  2025 audpera
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 awk -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root          5560 Feb 22  2024 baddbdir
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 basename -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 beep -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 blkdiscard -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root        234696 Feb 22  2024 bltest
+-rwxr-xr-x    1 root     root        116204 Aug 19  2025 boosterd
+-rwxr-xr-x    1 root     root          9704 Feb 22  2024 bsdcat
+-rwxr-xr-x    1 root     root          2918 Aug 19  2025 bsp_audio.sh
+-rwxr-xr-x    1 root     root          9652 Feb 22  2024 btoa
+-rwxr-xr-x    1 root     root        118200 Aug 19  2025 btut
+lrwxrwxrwx    1 root     root            20 Sep 13  2025 bunzip2 -> /usr/bin/bzip2.bzip2
+-rwxr-xr-x    1 root     root         50676 Sep  3  2025 busctl
+lrwxrwxrwx    1 root     root            20 Sep 13  2025 bzcat -> /usr/bin/bzip2.bzip2
+lrwxrwxrwx    1 root     root             6 Feb 22  2024 bzcmp -> bzdiff
+-rwxr-xr-x    1 root     root          2128 Feb 22  2024 bzdiff
+lrwxrwxrwx    1 root     root             6 Feb 22  2024 bzegrep -> bzgrep
+lrwxrwxrwx    1 root     root             6 Feb 22  2024 bzfgrep -> bzgrep
+-rwxr-xr-x    1 root     root          1677 Feb 22  2024 bzgrep
+lrwxrwxrwx    1 root     root            20 Sep 13  2025 bzip2 -> /usr/bin/bzip2.bzip2
+-rwxr-xr-x    1 root     root         26072 Feb 22  2024 bzip2.bzip2
+-rwxr-xr-x    1 root     root          9660 Feb 22  2024 bzip2recover
+lrwxrwxrwx    1 root     root             6 Feb 22  2024 bzless -> bzmore
+-rwxr-xr-x    1 root     root          1259 Feb 22  2024 bzmore
+-rwxr-xr-x    1 root     root          4522 May 23  2024 c_rehash
+lrwxrwxrwx    1 root     root            23 Sep 13  2025 cal -> /usr/bin/cal.util-linux
+-rwxr-xr-x    1 root     root         42684 May 23  2024 cal.util-linux
+-rwx------    1 root     root         21996 Aug 19  2025 certupdmgr
+-rwxr-xr-x    1 root     root        132848 Feb 22  2024 certutil
+-rwsr-xr-x    1 root     root         45504 Feb 22  2024 chage
+-rwxr-xr-x    1 root     root          8430 Aug 19  2025 check_settings_db_health.py
+-rwxr-xr-x    1 root     root           335 Aug 19  2025 check_settings_version.sh
+lrwxrwxrwx    1 root     root            20 Sep 13  2025 chfn -> /usr/bin/chfn.shadow
+-rwsr-xr-x    1 root     root         36140 Feb 22  2024 chfn.shadow
+-rwxr-xr-x    1 root     root         46524 Feb 22  2024 chktest
+-rwxr-xr-x    1 root     root         30188 May 23  2024 chmem
+lrwxrwxrwx    1 root     root            24 Sep 13  2025 chrt -> /usr/bin/chrt.util-linux
+-rwxr-xr-x    1 root     root         26100 May 23  2024 chrt.util-linux
+lrwxrwxrwx    1 root     root            20 Sep 13  2025 chsh -> /usr/bin/chsh.shadow
+-rwsr-xr-x    1 root     root         36076 Feb 22  2024 chsh.shadow
+lrwxrwxrwx    1 root     root            17 Sep 13  2025 chvt -> /usr/bin/chvt.kbd
+-rwxr-xr-x    1 root     root          9708 Feb 22  2024 chvt.kbd
+-rwxr-xr-x    1 root     root        212064 Nov 20  2024 cl_convolution
+-rwxr-xr-x    1 root     root        212088 Nov 20  2024 cl_events
+-rwxr-xr-x    1 root     root        228472 Nov 20  2024 cl_sgemm
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 clear -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 cmp -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         75264 Feb 22  2024 cmsutil
+-rwxr-xr-x    1 root     root         21992 May 23  2024 col
+-rwxr-xr-x    1 root     root          9704 May 23  2024 colcrt
+-rwxr-xr-x    1 root     root           188 Aug 19  2025 collect_alllogs.sh
+-rwxr-xr-x    1 root     root         17900 May 23  2024 colrm
+-rwxr-xr-x    1 root     root         34284 May 23  2024 column
+-rwxr-xr-x    1 root     root         34300 Aug 19  2025 com.webos.app.dvrpopup
+-rwxr-xr-x    1 root     root         46592 Aug 19  2025 com.webos.app.factorywin
+-rwxr-xr-x    1 root     root         50684 Sep 13  2025 com.webos.app.home
+-rwxr-xr-x    1 root     root        112136 Aug 19  2025 com.webos.app.inputcommon
+-rwxr-xr-x    1 root     root         79360 Aug 19  2025 com.webos.app.livemenu
+-rwxr-xr-x    1 root     root         30432 Sep 13  2025 com.webos.app.livepick
+-rwxr-xr-x    1 root     root         30208 Sep 13  2025 com.webos.app.livepick-full
+-rwxr-xr-x    1 root     root         34296 Aug 19  2025 com.webos.app.tvhotkey
+-rwxr-xr-x    1 root     root         30200 Sep 13  2025 com.webos.app.voice
+-rwxr-xr-x    1 root     root         13824 Aug 19  2025 com.webos.exampleapp.systemui
+-rwxr-xr-x    1 root     root         13776 Aug 19  2025 com.webos.exampleapp.videocapture
+-rwxr-xr-x    1 root     root        124688 Aug 19  2025 configd-tool
+-rwxr-xr-x    1 root     root          5560 Feb 22  2024 conflict
+-rwxr-xr-x    1 root     root         71996 Aug 19  2025 connmanctl
+-rwxr-xr-x    1 root     root          5588 Feb 22  2024 convertfilestopdf
+-rwxr-xr-x    1 root     root          5568 Feb 22  2024 convertfilestops
+-rwxr-xr-x    1 root     root          9676 Feb 22  2024 convertformat
+-rwxr-xr-x    1 root     root          9688 Feb 22  2024 convertsegfilestopdf
+-rwxr-xr-x    1 root     root          5568 Feb 22  2024 convertsegfilestops
+-rwxr-xr-x    1 root     root          5564 Feb 22  2024 converttopdf
+-rwxr-xr-x    1 root     root          5572 Feb 22  2024 converttops
+-rwxr--r--    1 root     root         18240 Jul 19  2024 cpulimit
+-rwxr-xr-x    1 root     root           413 Aug 19  2025 crash_dump.sh
+-rwxr-xr-x    1 root     root          2252 Feb 22  2024 crit
+-rwxr-xr-x    1 root     root         83460 Feb 22  2024 crlutil
+-rwxr-xr-x    1 root     root        103940 Feb 22  2024 crmftest
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 cryptpw -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         99856 Feb 22  2024 curl
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 cut -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         58884 Feb 22  2024 dbtest
+-rwxr-xr-x    1 root     root          9668 Feb 22  2024 dbus-cleanup-sockets
+-rwxr-xr-x    1 root     root        149176 Feb 22  2024 dbus-daemon
+-rwxr-xr-x    1 root     root         13756 Feb 22  2024 dbus-launch
+-rwxr-xr-x    1 root     root         17856 Feb 22  2024 dbus-monitor
+-rwxr-xr-x    1 root     root          9664 Feb 22  2024 dbus-run-session
+-rwxr-xr-x    1 root     root         17848 Feb 22  2024 dbus-send
+-rwxr-xr-x    1 root     root          9680 Feb 22  2024 dbus-update-activation-environment
+-rwxr-xr-x    1 root     root          9660 Feb 22  2024 dbus-uuidgen
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 dc -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            22 Sep 13  2025 deallocvt -> /usr/bin/deallocvt.kbd
+-rwxr-xr-x    1 root     root          9712 Feb 22  2024 deallocvt.kbd
+-rwxr-xr-x    1 root     root         17900 Feb 22  2024 deflatehd
+-rwxr-xr-x    1 root     root         18088 Feb 22  2024 derb
+-rwxr-xr-x    1 root     root         58880 Feb 22  2024 derdump
+-rwxr-xr-x    1 root     root          5560 Feb 22  2024 dertimetest
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 diff -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root          9652 Feb 22  2024 digest
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 dirname -> /bin/busybox.nosuid
+-rw-r--r--    1 root     root          8635 Aug 19  2025 dmrdbgs
+-rwxr-xr-x    1 root     root         46552 Feb 22  2024 dns-sd
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 du -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root        710956 Aug 19  2025 dump_fb
+-rwxr-xr-x    1 root     root         95948 Feb 22  2024 dumpkeys
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 dumpleases -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root        194624 Feb 22  2024 ecperf
+-rwxr-xr-x    1 root     root          5572 Feb 22  2024 ecryptfs-add-passphrase
+-rwxr-xr-x    1 root     root          1631 Feb 22  2024 ecryptfs-find
+-rwxr-xr-x    1 root     root          5596 Feb 22  2024 ecryptfs-insert-wrapped-passphrase-into-keyring
+-rwxr-xr-x    1 root     root         13760 Feb 22  2024 ecryptfs-manager
+-rwxr-xr-x    1 root     root          6232 Feb 22  2024 ecryptfs-migrate-home
+-rwxr-xr-x    1 root     root          2615 Feb 22  2024 ecryptfs-mount-private
+-rwxr-xr-x    1 root     root          3963 Feb 22  2024 ecryptfs-recover-private
+-rwxr-xr-x    1 root     root          5576 Feb 22  2024 ecryptfs-rewrap-passphrase
+-rwxr-xr-x    1 root     root          2062 Feb 22  2024 ecryptfs-rewrite-file
+-rwxr-xr-x    1 root     root         16337 Feb 22  2024 ecryptfs-setup-private
+-rwxr-xr-x    1 root     root          6207 Feb 22  2024 ecryptfs-setup-swap
+-rwxr-xr-x    1 root     root          5564 Feb 22  2024 ecryptfs-stat
+-rwxr-xr-x    1 root     root           817 Feb 22  2024 ecryptfs-umount-private
+-rwxr-xr-x    1 root     root          5576 Feb 22  2024 ecryptfs-unwrap-passphrase
+-rwxr-xr-x    1 root     root          5537 Feb 22  2024 ecryptfs-verify
+-rwxr-xr-x    1 root     root          5576 Feb 22  2024 ecryptfs-wrap-passphrase
+-rwxr-xr-x    1 root     root         13864 Feb 22  2024 ecryptfsd
+lrwxrwxrwx    1 root     root            25 Sep 13  2025 eject -> /usr/bin/eject.util-linux
+-rwxr-xr-x    1 root     root         38392 May 23  2024 eject.util-linux
+-rwxr-xr-x    1 root     root          5644 Feb 22  2024 encodeinttest
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 env -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 envdir -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         17904 Feb 22  2024 envsubst
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 envuidgid -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         38340 Aug 19  2025 eos-benchmark-launcher
+-rwxr-xr-x    1 root     root          2543 Aug 19  2025 esdcompat
+-rwxr-xr-x    1 root     root        124392 Feb 22  2024 exiv2
+-rwxr-xr-x    1 root     root         67088 Feb 22  2024 exiv2json
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 expand -> /bin/busybox.nosuid
+-rwsr-xr-x    1 root     root         22680 Feb 22  2024 expiry
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 expr -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 factor -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         13892 Feb 22  2024 faillog
+lrwxrwxrwx    1 root     root            29 Sep 13  2025 fallocate -> /usr/bin/fallocate.util-linux
+-rwxr-xr-x    1 root     root         22012 May 23  2024 fallocate.util-linux
+-rwxr-xr-x    1 root     root        102692 Feb 22  2024 fbectest
+-rwxr-xr-x    2 root     root         13804 Feb 22  2024 fc-cache
+-rwxr-xr-x    1 root     root          9704 Feb 22  2024 fc-cat
+-rwxr-xr-x    1 root     root          9704 Feb 22  2024 fc-list
+-rwxr-xr-x    1 root     root          9708 Feb 22  2024 fc-match
+-rwxr-xr-x    1 root     root          9708 Feb 22  2024 fc-pattern
+-rwxr-xr-x    1 root     root          9708 Feb 22  2024 fc-query
+-rwxr-xr-x    1 root     root          9704 Feb 22  2024 fc-scan
+-rwxr-xr-x    1 root     root          9708 Feb 22  2024 fc-validate
+-rwxr-xr-x    1 root     root          5560 Sep 13  2025 fe_trigger
+lrwxrwxrwx    1 root     root            22 Sep 13  2025 fgconsole -> /usr/bin/fgconsole.kbd
+-rwxr-xr-x    1 root     root          9776 Feb 22  2024 fgconsole.kbd
+-rwxr-xr-x    1 root     root          5568 Feb 22  2024 fileinfo
+-rwxr-xr-x    1 root     root         22028 May 23  2024 fincore
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 find -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root           677 Aug 19  2025 find_file_in_archive.sh
+-rwxr-xr-x    1 root     root         47372 May 23  2024 findmnt
+-rwxr-xr-x    1 root     root        227472 Feb 22  2024 fipstest
+-rwxr-xr-x    1 root     root        207948 Feb 22  2024 flac
+lrwxrwxrwx    1 root     root            25 Sep 13  2025 flock -> /usr/bin/flock.util-linux
+-rwxr-xr-x    1 root     root         22072 May 23  2024 flock.util-linux
+lrwxrwxrwx    1 root     root            20 Sep 13  2025 free -> /usr/bin/free.procps
+-rwxr-xr-x    1 root     root         13812 Aug 19  2025 free.procps
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 ftpget -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 ftpput -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            21 Sep 13  2025 fuser -> /usr/bin/fuser.psmisc
+-rwxr-xr-x    1 root     root         26556 Feb 22  2024 fuser.psmisc
+-rwsr-xr-x    1 root     root         26096 Feb 22  2024 fusermount
+-rwxr-xr-x    1 root     root          9660 Aug 19  2025 fwload_audio
+-rwxr-xr-x    1 root     root          9712 Aug 19  2025 fwloader
+-rwxr-xr-x    1 root     root        710960 Aug 19  2025 gal_renderd
+-rwxr-xr-x    1 root     root         38364 Feb 22  2024 gconf-merge-tree
+-rwxr-xr-x    1 root     root         50668 Feb 22  2024 gconftool-2
+-rwxr-xr-x    1 root     root          9856 Feb 22  2024 genbrk
+-rwxr-xr-x    1 root     root        121216 Feb 22  2024 gencat
+-rwxr-xr-x    1 root     root          9876 Feb 22  2024 gencfu
+-rwxr-xr-x    1 root     root         18020 Feb 22  2024 gencnval
+-rwxr-xr-x    1 root     root         18044 Feb 22  2024 gendict
+-rwxr-xr-x    1 root     root         92348 Feb 22  2024 genrb
+-rwxr-xr-x    1 root     root         84380 Feb 22  2024 getconf
+-rwxr-xr-x    1 root     root        125556 Feb 22  2024 getent
+-rwxr-xr-x    1 root     root          9708 Feb 22  2024 getkeycodes
+-rwxr-xr-x    1 root     root         17900 Feb 22  2024 gettext
+-rwxr-xr-x    1 root     root          4607 Feb 22  2024 gettext.sh
+-rwsr-xr-x    1 root     root         49532 Feb 22  2024 gpasswd
+-rwxr-xr-x    1 root     root         83532 Feb 22  2024 gphoto2
+-rwxr-xr-x    1 root     root         14032 Feb 22  2024 gphotofs
+-rwxr-xr-x    1 root     root        306392 Nov 20  2024 graph_alexnet
+-rwxr-xr-x    1 root     root        310512 Nov 20  2024 graph_googlenet
+-rwxr-xr-x    1 root     root        376056 Nov 20  2024 graph_inception_resnet_v2
+-rwxr-xr-x    1 root     root        380136 Nov 20  2024 graph_inception_v3
+-rwxr-xr-x    1 root     root        367856 Nov 20  2024 graph_inception_v4
+-rwxr-xr-x    1 root     root        302288 Nov 20  2024 graph_lenet
+-rwxr-xr-x    1 root     root        318712 Nov 20  2024 graph_mobilenet
+-rwxr-xr-x    1 root     root        314616 Nov 20  2024 graph_mobilenet_v2
+-rwxr-xr-x    1 root     root        310512 Nov 20  2024 graph_resnet50
+-rwxr-xr-x    1 root     root        310528 Nov 20  2024 graph_resnet_v2_50
+-rwxr-xr-x    1 root     root        306408 Nov 20  2024 graph_resnext50
+-rwxr-xr-x    1 root     root        314640 Nov 20  2024 graph_shufflenet
+-rwxr-xr-x    1 root     root        310504 Nov 20  2024 graph_squeezenet
+-rwxr-xr-x    1 root     root        310504 Nov 20  2024 graph_squeezenet_v1_1
+-rwxr-xr-x    1 root     root        314584 Nov 20  2024 graph_vgg16
+-rwxr-xr-x    1 root     root        318680 Nov 20  2024 graph_vgg19
+-rwxr-xr-x    1 root     root        355560 Nov 20  2024 graph_yolov3
+lrwxrwxrwx    1 root     root            22 Sep 13  2025 groups -> /usr/bin/groups.shadow
+-rwxr-xr-x    1 root     root          9660 Feb 22  2024 groups.shadow
+-rwxr-xr-x    1 root     root         17860 Feb 22  2024 gsettings-data-convert
+-rwxr-xr-x    1 root     root         41802 Feb 22  2024 gsettings-schema-convert
+-rwxr-xr-x    1 root     root         53472 Aug 19  2025 gst-device-monitor-1.0
+-rwxr-xr-x    1 root     root         83640 Aug 19  2025 gst-discoverer-1.0
+-rwxr-xr-x    1 root     root        171248 Nov 14  2024 gst-inspect-1.0
+-rwxr-xr-x    1 root     root        102760 Nov 14  2024 gst-launch-1.0
+-rwxr-xr-x    1 root     root        172724 Aug 19  2025 gst-play-1.0
+-rwxr-xr-x    1 root     root         94528 Nov 14  2024 gst-stats-1.0
+-rwxr-xr-x    1 root     root         39568 Nov 14  2024 gst-typefind-1.0
+-rwxr-xr-x    1 root     root        321008 Aug 19  2025 gtest_nn-proxy
+-rwxr-xr-x    1 root     root          5868 Feb 22  2024 gzexe
+-rwxr-xr-x    1 root     root          9708 Feb 22  2024 hangul
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 hd -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 head -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            27 Sep 13  2025 hexdump -> /usr/bin/hexdump.util-linux
+-rwxr-xr-x    1 root     root         38400 May 23  2024 hexdump.util-linux
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 hexedit -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 hostid -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         67084 Feb 22  2024 httpserv
+-rwxr-xr-x    1 root     root         18020 Aug 19  2025 hw-option-gen
+-rwxr-xr-x    1 root     root        294864 Feb 22  2024 iconv
+-rwxr-xr-x    1 root     root          9812 Feb 22  2024 icuinfo
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 id -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         13800 Feb 22  2024 iecset
+-rwxr-xr-x    1 root     root         13804 Feb 22  2024 inflatehd
+-rwxr-xr-x    1 root     root         34280 Feb 22  2024 initctl
+-rwxr-xr-x    1 root     root          9652 Aug 19  2025 invoker
+lrwxrwxrwx    1 root     root            26 Sep 13  2025 ionice -> /usr/bin/ionice.util-linux
+-rwxr-xr-x    1 root     root         17912 May 23  2024 ionice.util-linux
+-rwxr-xr-x    1 root     root        636448 Aug 19  2025 iot-client
+-rwxr-xr-x    1 root     root         22044 May 23  2024 ipcmk
+-rwxr-xr-x    1 root     root         21996 May 23  2024 ipcrm
+-rwxr-xr-x    1 root     root         34284 May 23  2024 ipcs
+lrwxrwxrwx    1 root     root            23 Feb 22  2024 iptables-xml -> /usr/sbin/xtables-multi
+-rwxr-xr-x    1 root     root         17900 May 23  2024 isosize
+-rwx------    1 root     root        120300 Aug 19  2025 jailer
+-rwxr-xr-x    1 root     root        710960 Aug 19  2025 kadp-debug
+-rwxr-xr-x    1 root     root        785872 Aug 19  2025 kadpd
+-rwxr-xr-x    1 root     root          9708 Feb 22  2024 kbd_mode
+-rwxr-xr-x    1 root     root          9704 Feb 22  2024 kbdinfo
+-rwxr-xr-x    1 root     root          9652 Feb 22  2024 kbdrate
+-rwxr-xr-x    1 root     root         21992 Feb 22  2024 keyctl
+lrwxrwxrwx    1 root     root            23 Sep 13  2025 killall -> /usr/bin/killall.psmisc
+-rwxr-xr-x    1 root     root         18416 Feb 22  2024 killall.psmisc
+lrwxrwxrwx    1 root     root            24 Sep 13  2025 last -> /usr/bin/last.util-linux
+-rwxr-xr-x    1 root     root         30196 May 23  2024 last.util-linux
+lrwxrwxrwx    1 root     root            25 Sep 13  2025 lastb -> /usr/bin/lastb.util-linux
+lrwxrwxrwx    1 root     root            15 May 23  2024 lastb.util-linux -> last.util-linux
+-rwxr-xr-x    1 root     root         13800 Feb 22  2024 lastlog
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 less -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root          2750 Aug 19  2025 limit_cpu.bash
+-rwxr-xr-x    1 root     root        742900 Jul 19  2024 linkemulator
+lrwxrwxrwx    1 root     root             7 May 23  2024 linux32 -> setarch
+lrwxrwxrwx    1 root     root             7 May 23  2024 linux64 -> setarch
+-rwxr-xr-x    1 root     root         54792 Feb 22  2024 listsuites
+-rwxr-xr-x    1 root     root        124764 Feb 22  2024 loadkeys
+-rwxr-xr-x    1 root     root         17924 Feb 22  2024 loadunimap
+-rwxr-xr-x    1 root     root        200024 Feb 22  2024 locale
+lrwxrwxrwx    1 root     root            26 Sep 13  2025 logger -> /usr/bin/logger.util-linux
+-rwxr-xr-x    1 root     root         30488 May 23  2024 logger.util-linux
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 logname -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root          9704 May 23  2024 look
+-rwxr-xr-x    1 root     root          9656 Aug 19  2025 lsattr
+-rwxr-xr-x    1 root     root         58860 May 23  2024 lsblk
+-rwxr-xr-x    1 root     root         50668 May 23  2024 lsipc
+-rwxr-xr-x    1 root     root         26332 May 23  2024 lslocks
+-rwxr-xr-x    1 root     root         42492 May 23  2024 lslogins
+-rwxr-xr-x    1 root     root         30188 May 23  2024 lsmem
+-rwxr-xr-x    1 root     root         30192 May 23  2024 lsns
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 lsof -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 lspci -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 lsscsi -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 lsusb -> /bin/busybox.nosuid
+-rwxr-x---    1 root     root         30400 Aug 19  2025 luna-prefs-service
+-rwx------    1 root     root         17864 Aug 19  2025 luna-send
+-rwxr-xr-x    1 root     root         17868 Aug 19  2025 luna-send-pub
+-rwxr-x---    1 root     root          9656 Aug 19  2025 lunaprop
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 lzcat -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         34572 Feb 22  2024 makeconv
+-rwxr-xr-x    1 root     root        111652 Feb 22  2024 makedb
+-rwxr-xr-x    1 root     root         17852 Feb 22  2024 makepqg
+-rwxr-xr-x    1 root     root          5556 Feb 22  2024 mangle
+-rwxr-xr-x    1 root     root         13824 Feb 22  2024 mapscrn
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 md5sum -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         17896 Sep 13  2025 memstay
+lrwxrwxrwx    1 root     root            24 Sep 13  2025 mesg -> /usr/bin/mesg.util-linux
+-rwxr-xr-x    1 root     root          9712 May 23  2024 mesg.util-linux
+-rwxr-xr-x    1 root     root         17900 Feb 22  2024 metacopy
+-rwxr-xr-x    1 root     root        108940 Feb 22  2024 metaflac
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 microcom -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 mkfifo -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 mkpasswd -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root        117508 Feb 22  2024 modutil
+-rwxr-xr-x    1 root     root        107380 Aug 19  2025 mpg123
+-rwxr-xr-x    1 root     root         18048 Aug 19  2025 mpg123-id3dump
+-rwxr-xr-x    1 root     root          9796 Aug 19  2025 mpg123-strip
+-rwxr-xr-x    1 root     root         13748 Feb 22  2024 mpicalc
+-rwxr-xr-x    1 root     root        526524 Aug 19  2025 mqtt-client
+-rwxr-xr-x    1 root     root         62980 Feb 22  2024 multinit
+-rwxr-xr-x    1 root     root         21996 May 23  2024 namei
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 nc -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root        207888 Nov 20  2024 neon_cartoon_effect
+-rwxr-xr-x    1 root     root        207856 Nov 20  2024 neon_cnn
+-rwxr-xr-x    1 root     root        207872 Nov 20  2024 neon_convolution
+-rwxr-xr-x    1 root     root        199608 Nov 20  2024 neon_copy_objects
+-rwxr-xr-x    1 root     root        203752 Nov 20  2024 neon_scale
+-rwxr-xr-x    1 root     root        220192 Nov 20  2024 neon_sgemm
+-rwxr-xr-x    1 root     root        212088 Nov 20  2024 neoncl_scale_median_gaussian
+-rwxr-xr-x    1 root     root          9708 Feb 22  2024 nettle-hash
+-rwxr-xr-x    1 root     root          5568 Feb 22  2024 nettle-lfib-stream
+-rwsr-xr-x    1 root     root         24100 Feb 22  2024 newgidmap
+lrwxrwxrwx    1 root     root            22 Sep 13  2025 newgrp -> /usr/bin/newgrp.shadow
+-rwsr-xr-x    1 root     root         26724 Feb 22  2024 newgrp.shadow
+-rwsr-xr-x    1 root     root         24100 Feb 22  2024 newuidmap
+-rwxr-xr-x    1 root     root         17904 Feb 22  2024 ngettext
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 nl -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 nmeter -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         75244 Aug 19  2025 nn-proxy
+-rwxr-xr-x    1 root     root           547 Aug 19  2025 nn-proxy.sh
+-rwxr-xr-x    1 root     root      14911232 May 23  2024 node
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 nohup -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root          5560 Feb 22  2024 nonspr10
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 nproc -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            27 Sep 13  2025 nsenter -> /usr/bin/nsenter.util-linux
+-rwxr-xr-x    1 root     root         22112 May 23  2024 nsenter.util-linux
+-rwxr-xr-x    1 root     root         17900 Aug 19  2025 nsl
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 nslookup -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root          9672 Feb 22  2024 nss-policy-check
+-rwxr-xr-x    1 root     root         30312 Aug 19  2025 nyx-cmd
+-rwxr-xr-x    1 root     root         13924 Aug 19  2025 nyx-option-gen
+-rwxr-xr-x    1 root     root         67076 Feb 22  2024 ocspclnt
+-rwxr-xr-x    1 root     root         54788 Feb 22  2024 ocspresp
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 od -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root          5556 Feb 22  2024 oidcalc
+-rwxr-xr-x    1 root     root        415996 May 23  2024 openssl
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 openvt -> /usr/bin/openvt.kbd
+-rwxr-xr-x    1 root     root         13980 Feb 22  2024 openvt.kbd
+-rwxr-xr-x    1 root     root         18756 Feb 22  2024 opkg
+-rwxr-xr-x    1 root     root          1839 Feb 22  2024 opkg-check-config
+-rwxr-xr-x    1 root     root         35224 Aug 19  2025 out123
+-rwxr-xr-x    1 root     root         58884 Feb 22  2024 p7content
+-rwxr-xr-x    1 root     root         54784 Feb 22  2024 p7env
+-rwxr-xr-x    1 root     root         54784 Feb 22  2024 p7sign
+-rwxr-xr-x    1 root     root         58884 Feb 22  2024 p7verify
+-rwxr-xr-x    1 root     root         34312 Aug 19  2025 pacat
+-rwxr-xr-x    1 root     root         13800 Aug 19  2025 pacmd
+-rwxr-xr-x    1 root     root         50688 Aug 19  2025 pactl
+-rwxr-xr-x    1 root     root          2225 Aug 19  2025 padsp
+lrwxrwxrwx    1 root     root             5 Aug 19  2025 pamon -> pacat
+lrwxrwxrwx    1 root     root             5 Aug 19  2025 paplay -> pacat
+-rwxr-xr-x    1 root     root         17848 Aug 19  2025 paplayext
+lrwxrwxrwx    1 root     root             5 Aug 19  2025 parec -> pacat
+lrwxrwxrwx    1 root     root             5 Aug 19  2025 parecord -> pacat
+lrwxrwxrwx    1 root     root            22 Sep 13  2025 passwd -> /usr/bin/passwd.shadow
+-rwsr-xr-x    1 root     root         45556 Feb 22  2024 passwd.shadow
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 paste -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root          9716 Aug 19  2025 pasuspender
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 patch -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         17900 Feb 22  2024 path-test
+-rwxr-xr-x    1 root     root         69536 Feb 22  2024 pcprofiledump
+lrwxrwxrwx    1 root     root            21 Sep 13  2025 pgrep -> /usr/bin/pgrep.procps
+-rwxr-xr-x    1 root     root         17916 Aug 19  2025 pgrep.procps
+-rwxr-xr-x    1 root     root         50928 Aug 19  2025 picus
+-rwxr-xr-x    1 root     root        785768 Feb 22  2024 pk11ectest
+-rwxr-xr-x    1 root     root          9656 Feb 22  2024 pk11gcmtest
+-rwxr-xr-x    1 root     root        112388 Feb 22  2024 pk11mode
+-rwxr-xr-x    1 root     root         67416 Feb 22  2024 pk12util
+-rwxr-xr-x    1 root     root         58944 Feb 22  2024 pk1sign
+-rwxr-xr-x    1 root     root         13804 Feb 22  2024 pkcs1-conv
+-rwxr-xr-x    1 root     root         34792 Feb 22  2024 pkgdata
+lrwxrwxrwx    1 root     root            21 Sep 13  2025 pkill -> /usr/bin/pkill.procps
+-rwxr-xr-x    1 root     root         17916 Aug 19  2025 pkill.procps
+-rwxr-xr-x    1 root     root         50672 Feb 22  2024 pkix-errcodes
+-rwxr-xr-x    1 root     root        112704 Feb 22  2024 pldd
+-rwxr-xr-x    1 root     root           675 Aug 19  2025 pmServicePostInstall.sh
+-rwxr-xr-x    1 root     root           675 Aug 19  2025 pmServicePostRemove.sh
+lrwxrwxrwx    1 root     root            20 Sep 13  2025 pmap -> /usr/bin/pmap.procps
+-rwxr-xr-x    1 root     root         22004 Aug 19  2025 pmap.procps
+-rwxr-xr-x    1 root     root         18416 Aug 19  2025 pmt
+-rwxr-xr-x    1 root     root         58876 Feb 22  2024 pp
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 printf -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root          5572 Feb 22  2024 printimage
+-rwxr-xr-x    1 root     root          9676 Feb 22  2024 printsplitimage
+-rwxr-xr-x    1 root     root          5572 Feb 22  2024 printtiff
+-rwxr-xr-x    1 root     root         26348 May 23  2024 prlimit
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 pscan -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root             9 Feb 22  2024 psfaddtable -> psfxtable
+lrwxrwxrwx    1 root     root             9 Feb 22  2024 psfgettable -> psfxtable
+lrwxrwxrwx    1 root     root             9 Feb 22  2024 psfstriptable -> psfxtable
+-rwxr-xr-x    1 root     root         13752 Feb 22  2024 psfxtable
+lrwxrwxrwx    1 root     root            22 Sep 13  2025 pstree -> /usr/bin/pstree.psmisc
+-rwxr-xr-x    1 root     root         22396 Feb 22  2024 pstree.psmisc
+-rwxr-x---    1 root     root         58872 Aug 19  2025 pulseaudio
+-rwxr-xr-x    1 root     root         58884 Feb 22  2024 pwdecrypt
+lrwxrwxrwx    1 root     root            20 Sep 13  2025 pwdx -> /usr/bin/pwdx.procps
+-rwxr-xr-x    1 root     root          9708 Aug 19  2025 pwdx.procps
+lrwxrwxrwx    1 root     root             7 Feb 22  2024 python -> python2
+lrwxrwxrwx    1 root     root            14 Feb 22  2024 python-config -> python2-config
+lrwxrwxrwx    1 root     root             9 Feb 22  2024 python2 -> python2.7
+lrwxrwxrwx    1 root     root            16 Feb 22  2024 python2-config -> python2.7-config
+-rwxr-xr-x    1 root     root          5560 Feb 22  2024 python2.7
+-rwxr-xr-x    1 root     root          1681 Feb 22  2024 python2.7-config
+-rwxr-xr-x    1 root     root         58860 Aug 19  2025 qml-runner
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 readlink -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 realpath -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root          1622 Aug 19  2025 recover_hdr_psm.sh
+-rwxr-xr-x    1 root     root          9664 Feb 22  2024 remotelogger_test
+-rwxr-xr-x    1 root     root         54784 Feb 22  2024 remtest
+-rwxr-xr-x    1 root     root          9704 May 23  2024 rename
+lrwxrwxrwx    1 root     root            26 Sep 13  2025 renice -> /usr/bin/renice.util-linux
+-rwxr-xr-x    1 root     root          9716 May 23  2024 renice.util-linux
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 reset -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 resize -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         13980 Aug 19  2025 resourcemon
+lrwxrwxrwx    1 root     root            23 Sep 13  2025 rev -> /usr/bin/rev.util-linux
+-rwxr-xr-x    1 root     root          9712 May 23  2024 rev.util-linux
+-rwxr-xr-x    1 root     root         87524 Sep 13  2025 rmc
+-rwxr-xr-x    1 root     root         13780 Aug 19  2025 rocket
+-rwxr-xr-x    1 root     root        869436 Feb 22  2024 rsaperf
+-rwxr-xr-x    1 root     root         75488 Feb 22  2024 rsapoptst
+-rwxr-xr-x    1 root     root         13458 Aug 19  2025 run-js-service
+-rwxr-xr-x    1 root     root          1240 Aug 19  2025 run-unified-service-server
+-rwxr-xr-x    1 root     root             0 Feb 22  2024 ruta
+-rwxr-xr-x    1 root     root          2577 May 23  2024 sas_disk_blink
+-rwxr-xr-x    1 root     root         50696 Aug 19  2025 saveEnvironmentCondition
+lrwxrwxrwx    1 root     root            26 Sep 13  2025 script -> /usr/bin/script.util-linux
+-rwxr-xr-x    1 root     root         26100 May 23  2024 script.util-linux
+-rwxr-xr-x    1 root     root         17908 May 23  2024 scriptreplay
+-rwxr-xr-x    1 root     root          4092 May 23  2024 scsi_ch_swp
+-rwxr-xr-x    1 root     root          8569 May 23  2024 scsi_logging_level
+-rwxr-xr-x    1 root     root          3561 May 23  2024 scsi_mandat
+-rwxr-xr-x    1 root     root          1327 May 23  2024 scsi_readcap
+-rwxr-xr-x    1 root     root          1121 May 23  2024 scsi_ready
+-rwxr-xr-x    1 root     root          3854 May 23  2024 scsi_satl
+-rwxr-xr-x    1 root     root          1285 May 23  2024 scsi_start
+-rwxr-xr-x    1 root     root          1474 May 23  2024 scsi_stop
+-rwxr-xr-x    1 root     root           936 May 23  2024 scsi_temperature
+-rwxr-xr-x    1 root     root        139256 May 23  2024 sdparm
+-rwxr-xr-x    1 root     root         58880 Feb 22  2024 sdrtest
+-rwxr-xr-x    1 root     root        710960 Aug 19  2025 se_kadpd
+-rwxr-xr-x    1 root     root         13760 Feb 22  2024 secmodtest
+-rwxr-xr-x    1 root     root         87588 Feb 22  2024 selfserv
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 seq -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         13860 May 23  2024 setarch
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 setfattr -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         30208 Feb 22  2024 setfont
+-rwxr-xr-x    1 root     root          9708 Feb 22  2024 setkeycodes
+-rwxr-xr-x    1 root     root          9688 Feb 22  2024 setleds
+-rwxr-xr-x    1 root     root          9704 Feb 22  2024 setmetamode
+lrwxrwxrwx    1 root     root            26 Sep 13  2025 setsid -> /usr/bin/setsid.util-linux
+-rwxr-xr-x    1 root     root          9716 May 23  2024 setsid.util-linux
+-rwxr-xr-x    1 root     root         34284 May 23  2024 setterm
+-rwxr-xr-x    1 root     root         38416 Aug 19  2025 settingsCacheValidator
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 setuidgid -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root          9756 Feb 22  2024 setvtrgb
+-rwxr-xr-x    1 root     root         17900 Feb 22  2024 sexp-conv
+lrwxrwxrwx    1 root     root            13 Feb 22  2024 sg -> newgrp.shadow
+-rwxr-xr-x    1 root     root         14036 May 23  2024 sg_compare_and_write
+-rwxr-xr-x    1 root     root         18608 May 23  2024 sg_copy_results
+-rwxr-xr-x    1 root     root         34248 May 23  2024 sg_dd
+-rwxr-xr-x    1 root     root         13916 May 23  2024 sg_decode_sense
+-rwxr-xr-x    1 root     root          9660 May 23  2024 sg_emc_trespass
+-rwxr-xr-x    1 root     root         22360 May 23  2024 sg_format
+-rwxr-xr-x    1 root     root         22504 May 23  2024 sg_get_config
+-rwxr-xr-x    1 root     root          9828 May 23  2024 sg_get_lba_status
+-rwxr-xr-x    1 root     root          9800 May 23  2024 sg_ident
+-rwxr-xr-x    1 root     root         79888 May 23  2024 sg_inq
+-rwxr-xr-x    1 root     root         94216 May 23  2024 sg_logs
+-rwxr-xr-x    1 root     root         18068 May 23  2024 sg_luns
+-rwxr-xr-x    1 root     root          9652 May 23  2024 sg_map
+-rwxr-xr-x    1 root     root         18092 May 23  2024 sg_map26
+-rwxr-xr-x    1 root     root         23320 May 23  2024 sg_modes
+-rwxr-xr-x    1 root     root         18136 May 23  2024 sg_opcodes
+-rwxr-xr-x    1 root     root         26636 May 23  2024 sg_persist
+-rwxr-xr-x    1 root     root          9752 May 23  2024 sg_prevent
+-rwxr-xr-x    1 root     root         13956 May 23  2024 sg_raw
+-rwxr-xr-x    1 root     root         13956 May 23  2024 sg_rbuf
+-rwxr-xr-x    1 root     root          9672 May 23  2024 sg_rdac
+-rwxr-xr-x    1 root     root         21948 May 23  2024 sg_read
+-rwxr-xr-x    1 root     root         23316 May 23  2024 sg_read_attr
+-rwxr-xr-x    1 root     root          9764 May 23  2024 sg_read_block_limits
+-rwxr-xr-x    1 root     root         14088 May 23  2024 sg_read_buffer
+-rwxr-xr-x    1 root     root          9836 May 23  2024 sg_read_long
+-rwxr-xr-x    1 root     root         13992 May 23  2024 sg_readcap
+-rwxr-xr-x    1 root     root         13928 May 23  2024 sg_reassign
+-rwxr-xr-x    1 root     root          9824 May 23  2024 sg_referrals
+-rwxr-xr-x    1 root     root         13984 May 23  2024 sg_rep_zones
+-rwxr-xr-x    1 root     root          9848 May 23  2024 sg_requests
+-rwxr-xr-x    1 root     root          9816 May 23  2024 sg_reset
+-rwxr-xr-x    1 root     root          9784 May 23  2024 sg_reset_wp
+-rwxr-xr-x    1 root     root          9748 May 23  2024 sg_rmsn
+-rwxr-xr-x    1 root     root          9796 May 23  2024 sg_rtpg
+-rwxr-xr-x    1 root     root         13944 May 23  2024 sg_safte
+-rwxr-xr-x    1 root     root         18152 May 23  2024 sg_sanitize
+-rwxr-xr-x    1 root     root          9852 May 23  2024 sg_sat_identify
+-rwxr-xr-x    1 root     root         14080 May 23  2024 sg_sat_phy_event
+-rwxr-xr-x    1 root     root          9856 May 23  2024 sg_sat_read_gplog
+-rwxr-xr-x    1 root     root          9840 May 23  2024 sg_sat_set_features
+-rwxr-xr-x    1 root     root          9660 May 23  2024 sg_scan
+-rwxr-xr-x    1 root     root         18280 May 23  2024 sg_senddiag
+-rwxr-xr-x    1 root     root         69152 May 23  2024 sg_ses
+-rwxr-xr-x    1 root     root         18272 May 23  2024 sg_ses_microcode
+-rwxr-xr-x    1 root     root         14024 May 23  2024 sg_start
+-rwxr-xr-x    1 root     root         13956 May 23  2024 sg_stpg
+-rwxr-xr-x    1 root     root          9828 May 23  2024 sg_sync
+-rwxr-xr-x    1 root     root         13908 May 23  2024 sg_test_rwbuf
+-rwxr-xr-x    1 root     root         13968 May 23  2024 sg_timestamp
+-rwxr-xr-x    1 root     root          9796 May 23  2024 sg_turs
+-rwxr-xr-x    1 root     root         13912 May 23  2024 sg_unmap
+-rwxr-xr-x    1 root     root         14024 May 23  2024 sg_verify
+-rwxr-xr-x    1 root     root         81536 May 23  2024 sg_vpd
+-rwxr-xr-x    1 root     root         13928 May 23  2024 sg_wr_mode
+-rwxr-xr-x    1 root     root         14160 May 23  2024 sg_write_buffer
+-rwxr-xr-x    1 root     root          9836 May 23  2024 sg_write_long
+-rwxr-xr-x    1 root     root         14060 May 23  2024 sg_write_same
+-rwxr-xr-x    1 root     root         13996 May 23  2024 sg_write_verify
+-rwxr-xr-x    1 root     root         30152 May 23  2024 sg_xcopy
+-rwxr-xr-x    1 root     root          9880 May 23  2024 sg_zone
+-rwxr-xr-x    1 root     root         51696 May 23  2024 sginfo
+-rwxr-xr-x    1 root     root         26044 May 23  2024 sgm_dd
+-rwxr-xr-x    1 root     root         30144 May 23  2024 sgp_dd
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 sha1sum -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 sha256sum -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 sha3sum -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 sha512sum -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         21996 Feb 22  2024 shlibsign
+-rwxr-xr-x    1 root     root         13808 Feb 22  2024 showconsolefont
+lrwxrwxrwx    1 root     root            20 Sep 13  2025 showkey -> /usr/bin/showkey.kbd
+-rwxr-xr-x    1 root     root          9804 Feb 22  2024 showkey.kbd
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 shred -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 shuf -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root           487 Feb 22  2024 signlibs.sh
+-rwxr-xr-x    1 root     root        128528 Feb 22  2024 signtool
+-rwxr-xr-x    1 root     root         67252 Feb 22  2024 signver
+lrwxrwxrwx    1 root     root            21 Sep 13  2025 skill -> /usr/bin/skill.procps
+-rwxr-xr-x    1 root     root         17908 Aug 19  2025 skill.procps
+-rwxr-xr-x    1 root     root         13804 Aug 19  2025 slabtop
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 smemcap -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root          9664 Feb 22  2024 sndfile-resample
+lrwxrwxrwx    1 root     root            21 Sep 13  2025 snice -> /usr/bin/snice.procps
+-rwxr-xr-x    1 root     root         17908 Aug 19  2025 snice.procps
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 sort -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         22048 Feb 22  2024 speaker-test
+-rwxr-xr-x    1 root     root          9676 Feb 22  2024 splitimage2pdf
+-rwxr-xr-x    1 root     root        275980 Aug 19  2025 sportsalarm
+-rwxr-xr-x    1 root     root        136564 Feb 22  2024 sprof
+-rwxr-xr-x    1 root     root        121416 Feb 22  2024 sqlite3
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 ssl_client -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         83456 Feb 22  2024 ssltap
+-rwxr-xr-x    1 root     root          5692 Aug 19  2025 starfish-selector
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 strings -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         71296 Feb 22  2024 strsclnt
+-rwxr-xr-x    1 root     root         17904 Aug 19  2025 surface-manager
+-rwxr-xr-x    1 root     root          2793 Aug 19  2025 surface-manager.sh
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 svc -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 svok -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         67596 Feb 22  2024 symkeyutil
+-rwxr-xr-x    1 root     root        862180 Sep  3  2025 systemd-analyze
+-rwxr-xr-x    1 root     root          9716 Sep  3  2025 systemd-cat
+-rwxr-xr-x    1 root     root          9716 Sep  3  2025 systemd-cgls
+-rwxr-xr-x    1 root     root         26132 Sep  3  2025 systemd-cgtop
+-rwxr-xr-x    1 root     root         17908 Sep  3  2025 systemd-delta
+-rwxr-xr-x    1 root     root          9716 Sep  3  2025 systemd-detect-virt
+-rwxr-xr-x    1 root     root         34316 Sep  3  2025 systemd-mount
+-rwxr-xr-x    1 root     root          9712 Sep  3  2025 systemd-path
+-rwxr-xr-x    1 root     root         34308 Sep  3  2025 systemd-run
+-rwxr-xr-x    1 root     root         17936 Sep  3  2025 systemd-socket-activate
+-rwxr-xr-x    1 root     root          9724 Sep  3  2025 systemd-stdio-bridge
+lrwxrwxrwx    1 root     root            13 Sep  3  2025 systemd-umount -> systemd-mount
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 tail -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            27 Sep 13  2025 taskset -> /usr/bin/taskset.util-linux
+-rwxr-xr-x    1 root     root         22008 May 23  2024 taskset.util-linux
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 tcpsvd -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 tee -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 telnet -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         17848 Feb 22  2024 tesseract
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 test -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root          9724 Aug 19  2025 test_adcc_task_broadcast
+-rwxr-xr-x    1 root     root          9708 Jun  5  2024 test_aec-fe
+-rwxr-xr-x    1 root     root         13764 Aug 19  2025 test_arib4k_new_spec
+-rwxr-xr-x    1 root     root         13764 Aug 19  2025 test_atsc30_cta_spec
+-rwxr-xr-x    1 root     root          9672 Aug 19  2025 test_atvcc_task_broadcast
+-rwxr-xr-x    1 root     root        136716 Aug 19  2025 test_dcc_settings_notification
+-rwxr-xr-x    1 root     root         21952 Aug 19  2025 test_dile_uhdcp_key
+-rwxr-xr-x    1 root     root         13756 Aug 19  2025 test_dile_wav22
+-rwxr-xr-x    1 root     root          9656 Aug 19  2025 test_drawer
+-rwxr-xr-x    1 root     root          9672 Aug 19  2025 test_dtvcc_task_broadcast
+-rwxr-xr-x    1 root     root         17868 Aug 19  2025 test_extract_subtitle_ttml_png
+-rwxr-xr-x    1 root     root          9724 Aug 19  2025 test_jcap_task_broadcast
+-rwxr-xr-x    1 root     root          9660 Aug 19  2025 test_mfi_module
+-rwxr-xr-x    1 root     root         21972 Aug 19  2025 test_micom_misc
+-rwxr-xr-x    1 root     root         21976 Aug 19  2025 test_micom_power
+-rwxr-xr-x    1 root     root          9688 Aug 19  2025 test_micom_sensor
+-rwxr-xr-x    1 root     root          9688 Aug 19  2025 test_micom_timer
+-rwxr-xr-x    1 root     root         71228 Sep 13  2025 test_miracastencoding
+-rwxr-xr-x    1 root     root          9664 Aug 19  2025 test_subtitle_task
+-rwxr-xr-x    1 root     root          9728 Aug 19  2025 test_subtitle_task_broadcast
+-rwxr-xr-x    1 root     root         26056 Aug 19  2025 test_subtitle_task_object
+-rwxr-xr-x    1 root     root         13776 Aug 19  2025 test_subtitle_task_style_options
+-rwxr-xr-x    1 root     root         13828 Aug 19  2025 test_teletext_page_task_broadcast
+-rwxr-xr-x    1 root     root          9728 Aug 19  2025 test_teletext_task_broadcast
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 tftp -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 time -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 timeout -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         13816 Aug 19  2025 tload
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 top -> /usr/bin/top.procps
+-rwxr-xr-x    1 root     root         90332 Aug 19  2025 top.procps
+-rwxr-xr-x    1 root     root         13776 Feb 22  2024 tput
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 tr -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            17 Sep 13  2025 traceroute -> /bin/busybox.suid
+lrwxrwxrwx    1 root     root            17 Sep 13  2025 traceroute6 -> /bin/busybox.suid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 truncate -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         17848 Feb 22  2024 tset
+-rwxr-xr-x    1 root     root         79488 Feb 22  2024 tstclnt
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 tty -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 ttysize -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root        114348 Aug 19  2025 tu_debug
+-rwxr-xr-x    1 root     root         15364 Feb 22  2024 tzselect
+-rwxr-xr-x    1 root     root          9704 Feb 22  2024 uchardet
+-rwxr-xr-x    1 root     root         38544 Feb 22  2024 uconv
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 udpsvd -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         13796 May 23  2024 ul
+-rwxr-xr-x    1 root     root          9660 Feb 22  2024 ulockmgr_server
+-rwxr-xr-x    1 root     root        128484 Sep 13  2025 umc
+-rwxr-xr-x    1 root     root         46572 Sep 13  2025 ums-status
+lrwxrwxrwx    1 root     root             7 May 23  2024 uname26 -> setarch
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 unexpand -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root          2425 Feb 22  2024 unicode_start
+-rwxr-xr-x    1 root     root           363 Feb 22  2024 unicode_stop
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 uniq -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 unlink -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 unzip -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root          4633 Feb 22  2024 update-alternatives
+-rwxr-xr-x    1 root     root         34312 Feb 22  2024 update-mime-database
+-rwxr-xr-x    1 root     root          5556 Aug 19  2025 upmt
+lrwxrwxrwx    1 root     root            22 Sep 13  2025 uptime -> /usr/bin/uptime.procps
+-rwxr-xr-x    1 root     root          9712 Aug 19  2025 uptime.procps
+-rwxr-xr-x    1 root     root          5560 Feb 22  2024 uriparse
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 users -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            28 Sep 13  2025 utmpdump -> /usr/bin/utmpdump.util-linux
+-rwxr-xr-x    1 root     root         17908 May 23  2024 utmpdump.util-linux
+-rwxr-xr-x    1 root     root         26096 May 23  2024 uuidparse
+-rwxr-xr-x    1 root     root         67076 Feb 22  2024 vfychain
+-rwxr-xr-x    1 root     root         67184 Feb 22  2024 vfyserv
+lrwxrwxrwx    1 root     root            17 Sep 13  2025 vlock -> /bin/busybox.suid
+-rwxr-xr-x    1 root     root         22008 Aug 19  2025 vmstat
+-rwxr-xr-x    1 root     root        161500 Aug 19  2025 vtCaptureTestSuite
+lrwxrwxrwx    1 root     root            17 Sep 13  2025 w -> /usr/bin/w.procps
+-rwxr-xr-x    1 root     root         13804 Aug 19  2025 w.procps
+lrwxrwxrwx    1 root     root            24 Sep 13  2025 wall -> /usr/bin/wall.util-linux
+-rwxr-xr-x    1 root     root         22004 May 23  2024 wall.util-linux
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 wc -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         26092 May 23  2024 wdctl
+-rwxr-xr-x    1 root     root         59000 Aug 19  2025 webos-image-service
+-rwxr-xr-x    1 root     root        161476 Aug 19  2025 webos-preload-manager
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 wget -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         18084 May 23  2024 whereis
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 which -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 who -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 whoami -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 whois -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root        391372 Aug 19  2025 wisa-manager
+-rwxr-xr-x    1 root     root         46536 Feb 22  2024 wpa_passphrase
+-rwxr-xr-x    1 root     root         13800 May 23  2024 write
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 xargs -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root          9672 Feb 22  2024 xtractprotos
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 xxd -> /bin/busybox.nosuid
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 xzcat -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root         21992 Feb 22  2024 yat2m
+lrwxrwxrwx    1 root     root            19 Sep 13  2025 yes -> /bin/busybox.nosuid
+-rwxr-xr-x    1 root     root            71 Feb 22  2024 zcmp
+-rwxr-xr-x    1 root     root          4422 Feb 22  2024 zdiff
+-rwxr-xr-x    1 root     root            66 Feb 22  2024 zegrep
+-rwxr-xr-x    1 root     root            66 Feb 22  2024 zfgrep
+-rwxr-xr-x    1 root     root          2017 Feb 22  2024 zforce
+-rwxr-xr-x    1 root     root          4894 Feb 22  2024 zgrep
+-rwxr-xr-x    1 root     root          1735 Feb 22  2024 zless
+-rwxr-xr-x    1 root     root          2441 Feb 22  2024 zmore
+-rwxr-xr-x    1 root     root          4954 Feb 22  2024 znew

@@ -1,0 +1,6 @@
+It runs:
+
+- python2.7.16
+- busybox
+- systemd
+- node v8.12.0
