@@ -1,0 +1,4 @@
+#!/bin/bash
+echo -e "#!/bin/bash\n\nexit 0" > /tmp/empty_bin
+chmod +x /tmp/empty_bin
+mount --bind /tmp/empty_bin /usr/bin/com.webos.app.voice 2>/dev/null
